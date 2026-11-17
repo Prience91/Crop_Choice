@@ -1,1 +1,1 @@
-This repository engages materials to analysze how socio-ecological and perception variables regarding perception advantage of indigenous crops over improved crops and vice-versa influences crop choice amongst rural farming communities of Nepal. 
+This repository engages materials to analysze how socio-ecological and perception variables regarding perceived advantage of indigenous crops over improved crops and vice-versa influences crop choice amongst rural farming communities of Nepal. 
